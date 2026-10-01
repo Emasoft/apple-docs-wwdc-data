@@ -6,7 +6,7 @@ WWDC session data (transcripts, code examples, topics) downloaded on demand by t
 
 - `v2` (immutable, pinned by the plugin): `wwdc-data.tar.gz`, SHA-256 `9e436884c29acb8ccef0b1077bc0713e1d380be513ba174cbf865fa7f17bc3bb`, 10,639,807 bytes.
 
-Releases from `v2` on are GitHub immutable releases. `v1` (same bytes, published before immutability was enabled) is kept only for history. The plugin pins the archive by SHA-256. A data refresh is published as a new release (`v2`, ...) together with a new pin in the plugin.
+Releases from `v2` on are GitHub immutable releases. `v1` (same bytes, published before immutability was enabled) is kept only for history. The plugin pins the archive by SHA-256. A data refresh is published as a new release (`v3`, ...) together with a new pin in the plugin.
 
 ## Manual install
 
